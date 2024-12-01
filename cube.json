@@ -30,9 +30,9 @@
             [0.8, 0.0]
         ],
         "triangles": [
-            [0, 1, 2],   // Main body triangle
-            [3, 4, 0],   // Engine part
-            [4, 1, 0]    // Engine part
+            [0, 1, 2],  
+            [3, 4, 0],   
+            [4, 1, 0]    
         ]
     },
     {
@@ -45,7 +45,7 @@
             "texture": "cube.png"
         },
         "vertices": [
-            // Alien ship vertices
+            
             [-0.02, -0.02, 0.0],  
             [0.02, -0.02, 0.0],   
             [0.0, 0.02, 0.0],      
